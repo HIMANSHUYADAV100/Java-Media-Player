@@ -1,19 +1,19 @@
 # Java-Video-Player
 Java Video Player (2020 project)
-<p>
-############################################################################</p><p>
-#									   #</p><p>
-#									   #</p><p>
-#									   #</p><p>
-#		WELCOME TO MEDIA PLAYER					   #</p><p>
-#									   #</p><p>
-#									   #</p><p>
-#		author @Himanshu Yadav					   #</p><p>
-#			lonelionlancer@gmail.com			   #</p><p>
-#									   #</p><p>
-#									   #</p><p>
-############################################################################</p><p>
-</p>
+<t>
+############################################################################
+#									   #
+#									   #
+#									   #
+#		WELCOME TO MEDIA PLAYER					   #
+#									   #
+#									   #
+#		author @Himanshu Yadav					   #
+#			lonelionlancer@gmail.com			   #
+#									   #
+#									   #
+############################################################################
+</t>
 			INSTRUCTION
 
 TO OPEN Audio Video Player	:	run/start OPEN_MEDIA_PLAYER.BAT
