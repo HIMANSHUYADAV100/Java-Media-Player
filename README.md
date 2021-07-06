@@ -1,6 +1,6 @@
 # Java-Video-Player
 Java Video Player (2020 project)
-
+<!--
 ############################################################################
 #									   #
 #									   #
@@ -13,7 +13,7 @@ Java Video Player (2020 project)
 #									   #
 #									   #
 ############################################################################
-
+-->
 			INSTRUCTION
 
 TO OPEN Audio Video Player	:	run/start OPEN_MEDIA_PLAYER.BAT
